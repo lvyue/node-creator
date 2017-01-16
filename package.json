@@ -1,0 +1,24 @@
+{
+  "name": "node-creator",
+  "version": "0.0.1",
+  "description": "node project creater",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lvyue/node-creator.git"
+  },
+  "keywords": [
+    "node",
+    "creator",
+    "coding"
+  ],
+  "author": "Yue Lv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lvyue/node-creator/issues"
+  },
+  "homepage": "https://github.com/lvyue/node-creator#readme"
+}
